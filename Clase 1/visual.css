@@ -1,0 +1,27 @@
+ol {
+    font-size: x-large;
+    color: blueviolet;
+}
+
+ul {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    color: red
+}
+
+body {
+    background: linear-gradient(to top right, aqua, pink);
+}
+
+img {
+    margin-left: 530px;
+    border-radius: 50px;
+    border: 5px;
+    border-color: black;
+    border-style: solid;
+
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
